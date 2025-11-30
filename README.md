@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sammar Khan 👋
 
-<!--
-**smrkhn55/smrkhn55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am Sammar Khan, a Final-year Chemical Engineering student at UET Peshawar from Peshawar,Pakistan.
+I am interested in environmental engineering, wastewater treatment, and sustainable materials.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Chemical process fundamentals
+* Adsorbent synthesis & characterization
+* Data analysis (Excel, Python)
+* Laboratory techniques: filtration, titration, spectrophotometry
+* Technical writing & literature review
+
+## Projects
+
+* **Cadmium Removal Using Sweet Potato Biosorbent** — Final year project investigating biosorbents for heavy metal removal.
+* **Photocatalytic Adsorbent Study** — Small research project on photocatalytic degradation of organic pollutants. 
+
+## Contact
+
+* Email: [ksmr1800@gmail.com]
+
+---
+
+Thank you for visiting my profile!
+
